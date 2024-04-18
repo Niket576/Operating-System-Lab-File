@@ -1,0 +1,20 @@
+The basic linux commands are given below as: 
+sudo: allows a user to execute a command with root/administrator privileges.
+pwd: prints the current working directory.
+cd: changes the current working directory.
+ls: lists the files and directories in the current directory.
+cat: displays the contents of a file on the terminal.
+cp: copies a file or directory from one location to another.
+mv: moves or renames a file or directory.
+mkdir: creates a new directory.
+rmdir: removes an empty directory.
+rm: removes a file or directory (use with caution!).
+touch: creates an empty file or updates the modification time of an existing file.
+diff: compares two files and shows the differences.
+find: creates or extracts a compressed archive of files and directories.
+grep: searches for a pattern or text string in a file or output.
+df: displays the available disk space on the file system.
+du: displays the disk usage of files and directories.
+head: displays the first 10 lines of a file
+tail: displays the last 10 lines of a file.
+
