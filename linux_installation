@@ -1,0 +1,17 @@
+Procedure :
+1.Download latest Desktop version of Ubuntu from this link: http://www.ubuntu.com/download/desktop
+2.Booting the Installation System.
+3.Before booting the installation system, one need to change the boot order and set CD-ROM as first boot device.
+4.Find the Boot option in the setup utility. Its location depends on your BIOS. Select the Boot option from the     menu, you can now see the options Hard Drive, CD-ROM Drive, Removable Devices Disk etc.
+Change the boot sequence setting so that the CD-ROM is first. See the list of  “Item Specific Help” in right side of the window and find keys which is used to toggle to change the boot sequence.
+5.Insert the Ubuntu Disk in CD/DVD drive.
+6.Save your changes. Instructions on the screen tell you how to save the changes on your computer. The computer will restart with the changed settings. Machine should boot from CD-ROM, wait for the CD to load.
+In a few minutes installation wizard will be started. Select your language and click the “Install Ubuntu” button to continue.
+7.Select your location and Click the "Continue" button. Select your keyboard layout and UK (English) and Click on “Continue” button.
+8.Now Ubuntu 12.04 LTS (Precise Pangolin) operating system will be installed.
+9.Please select Ubuntu  and press Enter to boot the machine in Ubuntu Linux.
+Here you cansee the users on the machine. Click on the user name and enter the  password and press Enter key to login.
+10.We have successfully install and login to Ubuntu 12.04 LTS.
+11.It will take approximately 10-12 minutes (depending on computer's speed), a pop-up window will appear, notifying you that the installation is complete, and you'll need to restart the computer in order to use the newly installed Ubuntu operating system. Click the "Restart Now" button.
+12.Please remove the CD and press the "Enter" key to reboot. The computer will be restarted. 
+In a few seconds, you should see Windows 10′s boot menu with two entires listed – Windows 10 and Ubuntu. Then you may choose to boot into Windows 10 or Ubuntu using the UP/Down arrow keys.
